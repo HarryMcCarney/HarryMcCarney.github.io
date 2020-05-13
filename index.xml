@@ -6,7 +6,7 @@
     <description>A blog by Harry McCarney</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 28 Feb 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Apr 2020 00:00:00 +0000</lastBuildDate>
     
     <atom:link href="https://harrymccarney.github.io/index.xml" rel="self" type="application/rss+xml" />
     
@@ -139,14 +139,23 @@ As the discussion proceeds, participants can see the consensus being recorded. A
     <item>
       <title>About</title>
       <link>https://harrymccarney.github.io/about/</link>
-      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 09 Apr 2020 00:00:00 +0000</pubDate>
       
       <guid>https://harrymccarney.github.io/about/</guid>
-      <description>&lt;p&gt;I am the Founder and Managing Director of Hack and Craft.&lt;/p&gt;
+      <description>&lt;p&gt;I am the founder and Managing Director of Hack and Craft.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://hackandcraft.com/&#34;&gt;Hack and Craft&lt;/a&gt; creates Industry 4.0 technology for  organisations in the industrial, logistics, and manufacturing sectors. Our technology has driven innovation in companies such as Schneider Electric, Jaguar Land Rover, AkzoNobel, EDF, and RS Components.&lt;/p&gt;
 &lt;p&gt;I studied Philosophy and Artificial intelligence and have mentored at Google for Entrepreneurs and the Microsoft Tech accelerator. I am also a fellow of the Royal Society for the Encouragement of Arts, Manufactures and Commerce and a Founder/Trustee of &lt;a href=&#34;https://brightontabletennisclub.com/&#34;&gt;Brighton Table Tennis Club&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;You can find me on Twitter &lt;a href=&#34;https://twitter.com/hmccarney&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://harrymccarney.github.io/archives/</link>
+      <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://harrymccarney.github.io/archives/</guid>
+      <description></description>
     </item>
     
   </channel>
