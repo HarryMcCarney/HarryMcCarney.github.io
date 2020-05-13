@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Startup on A blog by Harry McCarney</title>
-    <link>/tags/startup/</link>
+    <link>https://harrymccarney.github.io/tags/startup/</link>
     <description>A blog by Harry McCarney (Startup)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 22 Apr 2020 00:00:00 +0000</lastBuildDate>
     
-    <atom:link href="/tags/startup/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://harrymccarney.github.io/tags/startup/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Why you still need a physical office with a distributed work model</title>
-      <link>/post/why-you-still-need-a-physical-office/</link>
+      <link>https://harrymccarney.github.io/post/why-you-still-need-a-physical-office/</link>
       <pubDate>Wed, 22 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>/post/why-you-still-need-a-physical-office/</guid>
+      <guid>https://harrymccarney.github.io/post/why-you-still-need-a-physical-office/</guid>
       <description>&lt;p&gt;Distributed agile working is at the core of Hack and Craft. And now coronavirus has forced most companies into remote working, its benefits are becoming clear even to the most traditional businesses.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/HandCRed.png&#34; alt=&#34;H&amp;C Sign&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://harrymccarney.github.io/HandCRed.png&#34; alt=&#34;H&amp;C Sign&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Reliance on a physical office presence as a way of monitoring productivity is counter-productive as it undermines the intrinsic motivation necessary for high quality creative or intellectual work.
 Given H&amp;amp;C’s success with remote working, which I outlined last week, the fact we opened a new office recently may seem counterproductive. Here’s why we did.&lt;/p&gt;
 &lt;h2 id=&#34;why-does-a-distributed-company-need-a-physical-office&#34;&gt;Why does a distributed company need a physical office?&lt;/h2&gt;
@@ -42,19 +42,19 @@ Given H&amp;amp;C’s success with remote working, which I outlined last week, t
 &lt;p&gt;Built in 1962, New England House was part of the brutalist movement and its iconic design encompasses eight floors built entirely from concrete, glass and aluminum. This industrial and functional aesthetic feels like home for H&amp;amp;C, as we work primarily with the industrial sector.&lt;/p&gt;
 &lt;p&gt;It’s also great to be in the company of other bootstrapped start-ups and entrepreneurs. The building is a hub for a diverse and determined group of entrepreneurs and makers, the calibre of which far exceeds anything I’ve come across within the cushier government and venture capital backed innovation schemes.&lt;/p&gt;
 &lt;h2 id=&#34;how-we-designed-the-space&#34;&gt;How we designed the space&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&#34;/OfficeDesign.png&#34; alt=&#34;H&amp;C Office Design&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://harrymccarney.github.io/OfficeDesign.png&#34; alt=&#34;H&amp;C Office Design&#34;&gt;&lt;/p&gt;
 &lt;p&gt;When we took over the space it clearly hadn’t been renovated for many decades. It was resplendent with all the trappings of a 1970s attempt at a plush office. Think fake Parquet flooring, endless carpeting, false ceilings, strip lighting and thousands of sockets and network ports.&lt;/p&gt;
 &lt;p&gt;We decided to strip this all away and return the space to its original aesthetic. This turned out to be a big job. Beneath the carpet we uncovered the original concrete floor which, now polished, works as a stylish and durable surface. It also helps reflect the light, giving the space an open and energetic atmosphere.&lt;/p&gt;
 &lt;p&gt;The internal partitions would be almost entirely glass so that the light could flood into the central social spaces and reflect on the floor.&lt;/p&gt;
 &lt;p&gt;Floor sorted, we then erected the stud walls with extra thick plasterboard and internal insulation for soundproofing. A major concern was regulating the temperature of the space, as its large dual aspect windows are single-glazed and a sun trap. We replaced the ancient gas boiler and radiators with air conditioning.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/OfficeRenovation.png&#34; alt=&#34;H&amp;C Office Renovation&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://harrymccarney.github.io/OfficeRenovation.png&#34; alt=&#34;H&amp;C Office Renovation&#34;&gt;&lt;/p&gt;
 &lt;h2 id=&#34;how-we-decorated-the-new-hc-lab&#34;&gt;How we decorated the new H&amp;amp;C Lab&lt;/h2&gt;
 &lt;p&gt;Simple, durable materials with a feeling of permanence complement the concrete and glass. We salvaged key pieces, such as a large piece of elm sourced from our neighbouring &lt;a href=&#34;https://www.woodrecycling.org.uk/&#34;&gt;wood recycler&lt;/a&gt;. This beautiful piece of wood now serves as a bar where we gather over coffee. They also built our meeting room table from old timbers recovered from Edwardian and Victorian house demolitions. These timeless wood structures sit well among the concrete and glass.&lt;/p&gt;
 &lt;p&gt;Finally we needed signage. We wanted something that would bring together the industrial and technological aspects of our business. H&amp;amp;C is unlike many digital agencies in that our work deploys technology directly into the real world. Most of the users who encounter the systems we build do so as part of their jobs, which are typically in industrial, manufacturing or supply chain settings. After laser cutting our logo from mild steel, we created a smart sign fitted with leds and a small web server, allowing us to create simple light animations.&lt;/p&gt;
 &lt;h2 id=&#34;creating-a-space-that-allows-us-to-evolve&#34;&gt;Creating a space that allows us to evolve&lt;/h2&gt;
 &lt;p&gt;We try to practise what we preach and in relation to physical office design, I think the inhabitants of the office should be constantly evolving the space to work for us. People can move into the Lab when they need to and can fade into working remotely when it suits. This flexibility of form and function is key for our distributed working approach.&lt;/p&gt;
 &lt;p&gt;Being 100% remote has worked well for H&amp;amp;C since 2014, but as the company has evolved, so has our understanding of what could work better. This melding of remote working and a specifically curated office space designed to harmonise with a distributed agile approach is innovative and scalable. It also feels like home.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/JakaSign.jpg&#34; alt=&#34;Jaka Sign Installation&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://harrymccarney.github.io/JakaSign.jpg&#34; alt=&#34;Jaka Sign Installation&#34;&gt;&lt;/p&gt;
 &lt;h2 id=&#34;the-finished-article&#34;&gt;The finished article&lt;/h2&gt;
 
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
