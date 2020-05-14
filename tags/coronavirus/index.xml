@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Coronavirus on A blog by Harry McCarney</title>
-    <link>https://harrymccarney.github.io/tags/coronavirus/</link>
+    <link>https://harrymccarney.com/tags/coronavirus/</link>
     <description>A blog by Harry McCarney (Coronavirus)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 28 Apr 2020 00:00:00 +0000</lastBuildDate>
     
-    <atom:link href="https://harrymccarney.github.io/tags/coronavirus/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://harrymccarney.com/tags/coronavirus/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>5 reasons innovation is needed more than ever</title>
-      <link>https://harrymccarney.github.io/post/5-reasons-innovation-is-needed-more-than-ever/</link>
+      <link>https://harrymccarney.com/post/5-reasons-innovation-is-needed-more-than-ever/</link>
       <pubDate>Tue, 28 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://harrymccarney.github.io/post/5-reasons-innovation-is-needed-more-than-ever/</guid>
+      <guid>https://harrymccarney.com/post/5-reasons-innovation-is-needed-more-than-ever/</guid>
       <description>&lt;p&gt;Plato once said: “necessity is literally the mother of invention” and he continues to be correct. There is increasing evidence that the lockdown is a catalyst for a huge wave of innovation across industry, business, and everyday life.&lt;/p&gt;
 &lt;p&gt;Here are 5 reasons why you should focus on innovation during the lockdown.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://harrymccarney.github.io/plato.jpg&#34; alt=&#34;Plato&amp;rsquo;s mother of necessity&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://harrymccarney.com/plato.jpg&#34; alt=&#34;Plato&amp;rsquo;s mother of necessity&#34;&gt;&lt;/p&gt;
 &lt;h4 id=&#34;1-the-world-is-becoming-more-agile&#34;&gt;1. The world is becoming more agile&lt;/h4&gt;
 &lt;p&gt;Progress has always been driven by adversity. Crisis is a powerful catalyst for new paradigms to emerge and it’s clear that the current COVID-19 crisis will be no different. Massive new laboratories with hundreds of scientists working on vaccines have been set up in a matter of weeks across the UK. Automotive companies such as Jaguar Land Rover are now partnering with medical device companies to create ventilators. Even the UK parliament is using video conferences to hold debates. In normal times these changes would have taken many years.&lt;/p&gt;
 &lt;p&gt;This agile response demonstrates that even highly regulated sectors like health, government and manufacturing can innovate at speed when risk assessments tip the scales from bureaucracy towards adaptability. The behavioural shift we’re witnessing will manifest in millions of small decisions and interactions between people who now adopt collective responsibility for a solution, rather than working to rule on one of its parts. This form of collaboration is the very essence of innovation. It’s also what Agile and Lean consultants have been advocating, with limited success, until now.&lt;/p&gt;
@@ -45,17 +45,17 @@
     
     <item>
       <title>10 rules for Distributed Agile — How H&amp;C gets stuff done.</title>
-      <link>https://harrymccarney.github.io/post/10-rules-for-distributed-agile/</link>
+      <link>https://harrymccarney.com/post/10-rules-for-distributed-agile/</link>
       <pubDate>Thu, 09 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://harrymccarney.github.io/post/10-rules-for-distributed-agile/</guid>
+      <guid>https://harrymccarney.com/post/10-rules-for-distributed-agile/</guid>
       <description>&lt;p&gt;H&amp;amp;C has been working from home since before it became synonymous with flattening the curve.&lt;/p&gt;
 &lt;p&gt;Many companies have previously allowed employees to work from home but the need for complex systems to be built by teams of people who don’t ever physically meet is a new challenge. Hopefully this account of how H&amp;amp;C does this will demonstrate that Distributed Agile is not only possible, but actually more efficient than co-located teams.&lt;/p&gt;
 &lt;h2 id=&#34;how-we-got-here&#34;&gt;How we got here&lt;/h2&gt;
 &lt;p&gt;Initially, this way of working was driven by H&amp;amp;C’s need to hire top notch engineers. As our Berlin office filled, we realised we needed more space. At this time in Berlin there was also a large influx of venture capital into new startups which created huge competition for the best developers. In response to this we opened an office in Barcelona and began hiring developers, effectively splitting the product teams across two locations.&lt;/p&gt;
 &lt;p&gt;Unfortunately, we quickly realised that crucial communication gets lost in split location product and engineering teams. Subtle but critical decisions were made in the physical coffee meetings and subsequently lost in the sometimes chaotic video conferences between two packed and echoey meeting rooms. We began thinking there must be a better way.&lt;/p&gt;
 &lt;p&gt;We were also greatly influenced by &lt;a href=&#34;https://www.joelonsoftware.com/2006/09/07/a-field-guide-to-developers-2/&#34;&gt;this&lt;/a&gt; Joel Spolsky article. He argues that all developers and knowledge workers doing &lt;a href=&#34;https://suebehaviouraldesign.com/kahneman-fast-slow-thinking/&#34;&gt;‘System 2’ thinking&lt;/a&gt;, as defined by Nobel prize winning psychologist Daniel Kahneman, should have their own single person office. We realised we could address this, improve channels of communication, and access a wider pool of talent around the world by transferring everyone to home working.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://harrymccarney.github.io/BerlinLondon.png&#34; alt=&#34;Berlin and London&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://harrymccarney.com/BerlinLondon.png&#34; alt=&#34;Berlin and London&#34;&gt;&lt;/p&gt;
 &lt;h2 id=&#34;10-rules-for-effective-distributed-agile-working&#34;&gt;10 rules for effective Distributed Agile working&lt;/h2&gt;
 &lt;p&gt;From this point on we built the methodology and working practises necessary to make our distributed team exceptionally productive. This established H&amp;amp;C’s now industry-wide reputation for high-quality complex innovation at pace. Here are our top 10 rules of effective distributed agile working. They definitely work for us and I hope they are useful for you.&lt;/p&gt;
 &lt;h4 id=&#34;1--take-an-all-or-nothing-approach&#34;&gt;1.  Take an all or nothing approach&lt;/h4&gt;
