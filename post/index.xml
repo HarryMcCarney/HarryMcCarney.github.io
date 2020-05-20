@@ -75,7 +75,7 @@ DD = 95%&lt;/p&gt;
 &lt;p&gt;We must create quality control processes that are as nimble and fast as they are robust and thorough. Indeed, quality control processes should be as concerned with the fixes they don&amp;rsquo;t make as those that they do.&lt;/p&gt;
 &lt;h5 id=&#34;notes&#34;&gt;Notes&lt;/h5&gt;
 &lt;p&gt;[1] The nature of Form and Context is explored in more detail by Christopher Alexander in his book about Architectural Design &lt;a href=&#34;https://en.wikipedia.org/wiki/Notes_on_the_Synthesis_of_Form&#34;&gt;‘Notes on the Synthesis of Form.&#39;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;[2] H&amp;amp;C&amp;rsquo;s approach includes embedding a Secure Development Lifecycle and T=threat modelling in our sprint methodology. We also use statically typed functional programming languages. Their algebraic type systems increase domain model expressiveness and capture many errors at compile time before the code is deployed.&lt;/p&gt;</description>
+&lt;p&gt;[2] H&amp;amp;C&amp;rsquo;s approach includes embedding a Secure Development Lifecycle and threat modelling into our sprint cycles. We also use statically typed functional programming languages. Their algebraic type system increases domain model expressiveness and captures many errors at compile time before the code is deployed.&lt;/p&gt;</description>
     </item>
     
     <item>
