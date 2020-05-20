@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Release Process on A blog by Harry McCarney</title>
-    <link>https://harrymccarney.com/tags/release-process/</link>
-    <description>A blog by Harry McCarney (Release Process)</description>
+    <title>Software Engineering on A blog by Harry McCarney</title>
+    <link>https://harrymccarney.com/tags/software-engineering/</link>
+    <description>A blog by Harry McCarney (Software Engineering)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 16 May 2020 00:00:00 +0000</lastBuildDate>
     
-    <atom:link href="https://harrymccarney.com/tags/release-process/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://harrymccarney.com/tags/software-engineering/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
